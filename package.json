@@ -1,6 +1,6 @@
 {
   "name": "build-rebar3",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Runs Rebar3 targets",
   "repository": "https://github.com/mweberaw/atom-build-rebar3",
   "license": "MIT",
